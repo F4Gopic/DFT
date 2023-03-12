@@ -3,6 +3,16 @@
 	"EngineAssociation": "{BBFD3F4A-42CC-D12A-C4AF-2A9FE2A73CD5}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "DFT",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
