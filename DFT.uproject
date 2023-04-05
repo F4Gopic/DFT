@@ -36,6 +36,10 @@
 		{
 			"Name": "Climbing",
 			"Enabled": true
+		},
+		{
+			"Name": "Dashing",
+			"Enabled": true
 		}
 	]
 }
