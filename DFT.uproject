@@ -40,6 +40,10 @@
 		{
 			"Name": "Dashing",
 			"Enabled": true
+		},
+		{
+			"Name": "LootCall",
+			"Enabled": true
 		}
 	]
 }
