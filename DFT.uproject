@@ -43,7 +43,7 @@
 		},
 		{
 			"Name": "LootCall",
-			"Enabled": true
+			"Enabled": false
 		}
 	]
 }
