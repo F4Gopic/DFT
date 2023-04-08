@@ -44,6 +44,10 @@
 		{
 			"Name": "LootCall",
 			"Enabled": false
+		},
+		{
+			"Name": "HandWhip",
+			"Enabled": true
 		}
 	]
 }
