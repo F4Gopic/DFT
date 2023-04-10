@@ -48,6 +48,10 @@
 		{
 			"Name": "HandWhip",
 			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	]
 }
