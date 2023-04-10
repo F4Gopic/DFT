@@ -13,3 +13,5 @@ Saved
 *.xcodeproj
 *.xcworkspace
 Releases/1.00/WindowsClient/DFT-WindowsClient.pak
+Releases/1.20/WindowsClient/DFT-WindowsClient_0_P.pak
+Releases/1.30/WindowsClient/DFT-WindowsClient_0_P.pak
