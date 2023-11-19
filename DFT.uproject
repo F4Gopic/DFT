@@ -56,7 +56,18 @@
 		{
 			"Name": "HotOrCold",
 			"Enabled": true
-
+		},
+		{
+			"Name": "OnlineSubsystemEOS",
+			"Enabled": true
+		},
+		{
+			"Name": "EOSShared",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineServicesEOSGS",
+			"Enabled": true
 		}
 	]
 }
