@@ -77,6 +77,10 @@
 		{
 			"Name": "BlueprintFileUtils",
 			"Enabled": true
+		},
+		{
+			"Name": "WindowsDialogBox",
+			"Enabled": true
 		}
 	]
 }
