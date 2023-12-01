@@ -24,6 +24,10 @@ public:
 	UPROPERTY(BlueprintReadWrite, VisibleDefaultsOnly, Category = "Default")
 	float TurretTopRotationSpeed = 45.0;
 
+	// Distance To Target
+	UPROPERTY(BlueprintReadOnly, VisibleDefaultsOnly, Category = "Default")
+	float DistanceToTarget;
+
 	// Get The Turret's Max Ammo
 	UFUNCTION(BlueprintPure)
 	int GetTurretMaxAmmo() const { return MaxAmmo; }
