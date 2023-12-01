@@ -28,6 +28,10 @@ public:
 	UPROPERTY(BlueprintReadOnly, VisibleDefaultsOnly, Category = "Default")
 	float DistanceToTarget;
 
+	// Sensing Radius
+	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = "Default")
+	float SensingRadius = 600;
+
 	// Get The Turret's Max Ammo
 	UFUNCTION(BlueprintPure)
 	int GetTurretMaxAmmo() const { return MaxAmmo; }
