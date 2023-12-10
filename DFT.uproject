@@ -80,7 +80,7 @@
 		},
 		{
 			"Name": "WindowsDialogBox",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "PlayFab",
