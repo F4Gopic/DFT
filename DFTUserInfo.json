@@ -3,6 +3,18 @@
     {
       "SkinID": "0",
       "CurrentSkin": "Racer"
+    },
+    {
+      "SkinID": "1",
+      "CurrentSkin": "Gop"
+    },
+    {
+      "SkinID": "2",
+      "CurrentSkin": "Mop"
+    },
+    {
+      "SkinID": "3",
+      "CurrentSkin": "Timmy"
     }
 
   ]}
