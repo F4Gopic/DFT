@@ -98,6 +98,10 @@
 		{
 			"Name": "CommonUI",
 			"Enabled": true
+		},
+		{
+			"Name": "ReplicationSystemTestPlugin",
+			"Enabled": false
 		}
 	]
 }

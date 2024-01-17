@@ -16,6 +16,7 @@ void AAThrowableItemDefinition::BeginPlay()
 {
 	Super::BeginPlay();
 	
+	
 }
 
 // Called every frame
